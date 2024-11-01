@@ -32,3 +32,5 @@ class InputContext(
         }
     }
 }
+
+fun key(attribute: String) = InputKey(attribute)
